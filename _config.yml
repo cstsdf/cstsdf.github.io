@@ -9,7 +9,7 @@
 title: Shitao Chen
 brief-intro: XJTU Ph.D Candidate
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zhangzhi11@github.io" # the base hostname & protocol for your site
+url: "https://cstsdf@github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
